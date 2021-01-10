@@ -1,12 +1,13 @@
 # WebChatApi
 
-## INSERIR DIRETORIO API DENTRO DO DIRETORIO WEBCHAT(WEBCHAT/api)
+## Inserir diretorio api dentro do diretorio do WEBCHAT(WEBCHAT/api)
 
-## DENTRO DO DIRETORIO API EXECUTAR O COMANDO
+## dentro do diretorio api executar o comando
 ```
 npm install
 ```
-## APÓS FEITA A INSTALAÇÃO DO MODULOS EXECUTAR O COMANDO
+
+## Após feita a instalação dos modulos executar o comando
 ```
 npm run dev
 ```
